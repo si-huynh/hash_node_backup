@@ -3,6 +3,7 @@ title: "How to Build Your First Android App with Kotlin"
 datePublished: Sun Jul 16 2023 07:14:13 GMT+0000 (Coordinated Universal Time)
 cuid: clk53piqe000n09l513uzhe5o
 slug: how-to-build-your-first-android-app-with-kotlin
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/bf59b05574dcb137d279a411b0692da1.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1689493396965/edcf3fd1-15ce-484d-9be5-aa47d226f16b.jpeg
 tags: android, kotlin
 
