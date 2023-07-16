@@ -3,6 +3,7 @@ title: "How to Build Your First Android App with Kotlin"
 datePublished: Sun Jul 16 2023 07:14:13 GMT+0000 (Coordinated Universal Time)
 cuid: clk53piqe000n09l513uzhe5o
 slug: how-to-build-your-first-android-app-with-kotlin
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1689493396965/edcf3fd1-15ce-484d-9be5-aa47d226f16b.jpeg
 tags: android, kotlin
 
 ---
@@ -65,7 +66,7 @@ To write Kotlin code for your app, you'll use the code editor, which is a text e
 
 1. Open the file MainActivity.kt, which is located in the java/com.example.happybirthday folder. This file defines the behavior of your main activity, which is linked to your layout file by the line setContentView(R.layout.activity\_main).
     
-2. In the code editor, find the line class MainActivity : AppCompatActivity() { and place your cursor inside the curly braces {}.
+2. In the code editor, find the line `class MainActivity : AppCompatActivity() {` and place your cursor inside the curly braces {}.
     
 3. Press Alt+Enter (Windows) or Option+Enter (Mac) to open a menu of actions. Select Create onCreate function, which will generate a function that is called when your activity is created.
     
